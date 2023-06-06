@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="203a7340-a982-4bb0-8ec9-3acb1718e15f" name="Default Changelist" comment="" />
+    <list default="true" id="203a7340-a982-4bb0-8ec9-3acb1718e15f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RideIO/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RideIO/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RideIO/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RideIO/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RideIO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RideIO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CarDriving.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CarDriving.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CarDriving.cs" root0="FORCE_HIGHLIGHTING" />
@@ -15,15 +28,18 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Follower.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FollowerUpdate.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CarDriving.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/WheelSpin.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollisionEffects.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FX.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CarAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scripts.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonsMethods.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CarDriving.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="2QhDGhrn53zLHZzF0c0ayWqIepT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,6 +84,7 @@
       <workItem from="1685874392677" duration="4553000" />
       <workItem from="1685893370641" duration="5222000" />
       <workItem from="1685912163373" duration="1779000" />
+      <workItem from="1686050607367" duration="1501000" />
     </task>
     <servers />
   </component>
@@ -76,6 +93,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

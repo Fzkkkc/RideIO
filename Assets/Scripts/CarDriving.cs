@@ -13,8 +13,22 @@ public class CarDriving : MonoBehaviour
     
     private float _moveInput;
     private float _turnInput;
+
+    public Vector3 CarStartPosition;
     
     private bool _isCarGrounded;
+
+    private CarDriving _carDrivingController;
+
+    public void Initialize(CarDriving carDriving)
+    {
+        _carDrivingController = carDriving;
+    }
+
+    private void Awake()
+    {
+        CarStartPosition = transform.position;
+    }
 
     private void Start()
     {
@@ -23,6 +37,8 @@ public class CarDriving : MonoBehaviour
         SetSphereDrag();
     }
 
+    
+    
     private void Update()
     {
         GetInputAxis();
@@ -109,5 +125,10 @@ public class CarDriving : MonoBehaviour
     private void SetSphereDrag()
     {
         _groundDrag = _sphereRigidbody.drag;
+    }
+    
+    public void ToTheStart()
+    {
+        transform.position = CarStartPosition;
     }
 }
